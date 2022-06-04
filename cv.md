@@ -67,7 +67,7 @@ PHP Software Engineer
 Kharkiv, Ukraine
 
 *********
-### EDUCATION
+### Education
 #### East Ukrainian National University named after Volodymyr Dahl
 ``` Computer Systems and Networks ```
 
