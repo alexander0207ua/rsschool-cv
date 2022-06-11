@@ -1,1 +1,102 @@
-/* Any content here */
+.header {
+    background-color: #479099;
+    margin: 0;
+    padding: 10px 10px 10px 0;
+}
+
+.header ul li a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.header ul li {
+    display:inline;
+}
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.my-photo img {
+    width: 200px;
+}
+
+.my-photo {
+    text-align: center;
+}
+.panel {
+    width: 20%;
+    padding: 10px;
+}
+
+.center h2 {
+    color: #479099;
+}
+
+.center span {
+    font-size: 12px;
+}
+
+.center {
+    width: 80%;
+    padding: 10px;
+    color: #000;
+}
+
+.description {
+    background-color: #479099;
+    color: #FFF;
+    padding: 5px 30px 10px;
+}
+
+.center hr {
+    color: #479099;
+}
+
+.description hr {
+    color: #FFFFFF;
+}
+
+.footer a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.footer {
+    padding: 20px;
+    background-color: #479099;
+}
+
+.code-example {
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 0 20px;
+}
+
+.badge {
+    padding: 10px;
+    background-color: #eee;
+    border-radius: 10px;
+}
+
+.contacts, .skills, .english {
+    line-height: 2;
+}
+
+.contacts ul,  .skills ul {
+    padding-left: 0;
+}
+
+.contacts ul li {
+    list-style-type: none;
+}
+
+.skills ul li {
+    display:inline;
+}
+
+.footer-logo {
+    width: 100px;
+}
