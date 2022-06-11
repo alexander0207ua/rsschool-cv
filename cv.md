@@ -50,9 +50,12 @@ describe("Multiply", () => {
 *********
 
 ### Work experience
-#### PHP Link Directory
-PHP Software Engineer. Customer Tech Support
-09/2010 – 10/2012
+
+#### ZFORT GROUP
+PHP Software Engineer
+11/2020 – Present
+
+Kharkiv, Ukraine
 
 #### Rapid Development Services, Inc.
 PHP Software Engineer
@@ -60,11 +63,11 @@ PHP Software Engineer
 
 Saint Louis, USA
 
-#### ZFORT GROUP
-PHP Software Engineer
-11/2020 – Present
+#### PHP Link Directory
+PHP Software Engineer. Customer Tech Support
+09/2010 – 10/2012
 
-Kharkiv, Ukraine
+Orange County, California Area, USA
 
 *********
 ### Education
